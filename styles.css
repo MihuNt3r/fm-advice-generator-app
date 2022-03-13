@@ -69,6 +69,10 @@ main{
 	background-position: center;
 }
 
+.attribution{
+	text-align: center;
+}
+
 .advice-component button:hover{
 	color: hsl(150, 69%, 45%);
 	box-shadow: 0 0 20px hsl(150, 69%, 45%);
